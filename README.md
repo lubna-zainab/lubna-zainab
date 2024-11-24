@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lubna-zainab
-- 👀 I’m currently focused on developing my Data Analysis Skills.
-- 🌱 I’m currently learning Data Analysis techniques through Python and SQL.
+- 👀 I’m currently focused on developing my Python and Data Analysis Skills.
+- 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on Data Analytics projects.
 - 📫 Reach me on my email: lubnazainab13@gmail.com
 - 😄 Pronouns: She/Her
