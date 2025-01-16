@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Analytics projects.
 - 📫 Reach me on my email: lubnazainab13@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a B.Com degree, but my passion for technology led me to pursue a career in Software Engineering. Currently thriving my Software Engineering role at NatWest Group.
 
 <!---
 lubna-zainab/lubna-zainab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
